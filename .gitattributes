@@ -1,0 +1,6 @@
+# Keep vendor documents and binary outputs byte-for-byte identical on every OS
+# (line-ending conversion would corrupt PDFs and change the SHA-256 recorded in output/p7_runs.json).
+*.pdf binary
+*.png binary
+*.eml -text
+data/** -text

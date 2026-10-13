@@ -1,0 +1,306 @@
+[
+ {
+  "label": "A1 instructions",
+  "time": "23:38:04",
+  "usage": {
+   "input_tokens": 10071,
+   "input_tokens_details": {
+    "cache_write_tokens": 10068,
+    "cached_tokens": 0
+   },
+   "output_tokens": 5,
+   "output_tokens_details": {
+    "reasoning_tokens": 0
+   },
+   "total_tokens": 10076
+  }
+ },
+ {
+  "label": "A2 instructions same",
+  "time": "23:38:06",
+  "usage": {
+   "input_tokens": 10071,
+   "input_tokens_details": {
+    "cache_write_tokens": 0,
+    "cached_tokens": 10068
+   },
+   "output_tokens": 6,
+   "output_tokens_details": {
+    "reasoning_tokens": 0
+   },
+   "total_tokens": 10077
+  }
+ },
+ {
+  "label": "B1 breakpoint",
+  "time": "23:38:07",
+  "usage": {
+   "input_tokens": 10067,
+   "input_tokens_details": {
+    "cache_write_tokens": 10064,
+    "cached_tokens": 0
+   },
+   "output_tokens": 6,
+   "output_tokens_details": {
+    "reasoning_tokens": 0
+   },
+   "total_tokens": 10073
+  }
+ },
+ {
+  "label": "B2 breakpoint same",
+  "time": "23:38:08",
+  "usage": {
+   "input_tokens": 10067,
+   "input_tokens_details": {
+    "cache_write_tokens": 0,
+    "cached_tokens": 10064
+   },
+   "output_tokens": 6,
+   "output_tokens_details": {
+    "reasoning_tokens": 0
+   },
+   "total_tokens": 10073
+  }
+ },
+ {
+  "label": "B3 breakpoint different tail",
+  "time": "23:38:09",
+  "usage": {
+   "input_tokens": 10067,
+   "input_tokens_details": {
+    "cache_write_tokens": 3,
+    "cached_tokens": 10061
+   },
+   "output_tokens": 16,
+   "output_tokens_details": {
+    "reasoning_tokens": 16
+   },
+   "total_tokens": 10083
+  }
+ },
+ {
+  "label": "C full body #1",
+  "time": "23:38:51",
+  "usage": {
+   "input_tokens": 11039,
+   "input_tokens_details": {
+    "cache_write_tokens": 10913,
+    "cached_tokens": 0
+   },
+   "output_tokens": 28,
+   "output_tokens_details": {
+    "reasoning_tokens": 0
+   },
+   "total_tokens": 11067
+  }
+ },
+ {
+  "label": "C full body #2",
+  "time": "23:38:53",
+  "usage": {
+   "input_tokens": 11039,
+   "input_tokens_details": {
+    "cache_write_tokens": 10913,
+    "cached_tokens": 0
+   },
+   "output_tokens": 28,
+   "output_tokens_details": {
+    "reasoning_tokens": 0
+   },
+   "total_tokens": 11067
+  }
+ },
+ {
+  "label": "C no prompt_cache_key #1",
+  "time": "23:38:56",
+  "usage": {
+   "input_tokens": 11041,
+   "input_tokens_details": {
+    "cache_write_tokens": 10915,
+    "cached_tokens": 0
+   },
+   "output_tokens": 28,
+   "output_tokens_details": {
+    "reasoning_tokens": 0
+   },
+   "total_tokens": 11069
+  }
+ },
+ {
+  "label": "C no prompt_cache_key #2",
+  "time": "23:38:58",
+  "usage": {
+   "input_tokens": 11041,
+   "input_tokens_details": {
+    "cache_write_tokens": 10915,
+    "cached_tokens": 0
+   },
+   "output_tokens": 28,
+   "output_tokens_details": {
+    "reasoning_tokens": 0
+   },
+   "total_tokens": 11069
+  }
+ },
+ {
+  "label": "C no tools #1",
+  "time": "23:39:01",
+  "usage": {
+   "input_tokens": 10574,
+   "input_tokens_details": {
+    "cache_write_tokens": 10571,
+    "cached_tokens": 0
+   },
+   "output_tokens": 200,
+   "output_tokens_details": {
+    "reasoning_tokens": 164
+   },
+   "total_tokens": 10774
+  }
+ },
+ {
+  "label": "C no tools #2",
+  "time": "23:39:03",
+  "usage": {
+   "input_tokens": 10574,
+   "input_tokens_details": {
+    "cache_write_tokens": 10571,
+    "cached_tokens": 0
+   },
+   "output_tokens": 200,
+   "output_tokens_details": {
+    "reasoning_tokens": 164
+   },
+   "total_tokens": 10774
+  }
+ },
+ {
+  "label": "A' handbook + string input (fresh nonce) #1",
+  "time": "23:39:33",
+  "usage": {
+   "input_tokens": 10079,
+   "input_tokens_details": {
+    "cache_write_tokens": 10076,
+    "cached_tokens": 0
+   },
+   "output_tokens": 6,
+   "output_tokens_details": {
+    "reasoning_tokens": 0
+   },
+   "total_tokens": 10085
+  }
+ },
+ {
+  "label": "A' handbook + string input (fresh nonce) #2",
+  "time": "23:39:33",
+  "usage": {
+   "input_tokens": 10079,
+   "input_tokens_details": {
+    "cache_write_tokens": 10076,
+    "cached_tokens": 0
+   },
+   "output_tokens": 6,
+   "output_tokens_details": {
+    "reasoning_tokens": 0
+   },
+   "total_tokens": 10085
+  }
+ },
+ {
+  "label": "D handbook + list input #1",
+  "time": "23:39:35",
+  "usage": {
+   "input_tokens": 10079,
+   "input_tokens_details": {
+    "cache_write_tokens": 10076,
+    "cached_tokens": 0
+   },
+   "output_tokens": 6,
+   "output_tokens_details": {
+    "reasoning_tokens": 0
+   },
+   "total_tokens": 10085
+  }
+ },
+ {
+  "label": "D handbook + list input #2",
+  "time": "23:39:36",
+  "usage": {
+   "input_tokens": 10079,
+   "input_tokens_details": {
+    "cache_write_tokens": 0,
+    "cached_tokens": 10076
+   },
+   "output_tokens": 6,
+   "output_tokens_details": {
+    "reasoning_tokens": 0
+   },
+   "total_tokens": 10085
+  }
+ },
+ {
+  "label": "E full instructions + string input #1",
+  "time": "23:39:38",
+  "usage": {
+   "input_tokens": 10562,
+   "input_tokens_details": {
+    "cache_write_tokens": 10559,
+    "cached_tokens": 0
+   },
+   "output_tokens": 16,
+   "output_tokens_details": {
+    "reasoning_tokens": 16
+   },
+   "total_tokens": 10578
+  }
+ },
+ {
+  "label": "E full instructions + string input #2",
+  "time": "23:39:40",
+  "usage": {
+   "input_tokens": 10562,
+   "input_tokens_details": {
+    "cache_write_tokens": 0,
+    "cached_tokens": 10559
+   },
+   "output_tokens": 16,
+   "output_tokens_details": {
+    "reasoning_tokens": 16
+   },
+   "total_tokens": 10578
+  }
+ },
+ {
+  "label": "F handbook no nonce + string (exact A) #1",
+  "time": "23:39:40",
+  "usage": {
+   "input_tokens": 10071,
+   "input_tokens_details": {
+    "cache_write_tokens": 0,
+    "cached_tokens": 10068
+   },
+   "output_tokens": 6,
+   "output_tokens_details": {
+    "reasoning_tokens": 0
+   },
+   "total_tokens": 10077
+  }
+ },
+ {
+  "label": "F handbook no nonce + string (exact A) #2",
+  "time": "23:39:41",
+  "usage": {
+   "input_tokens": 10071,
+   "input_tokens_details": {
+    "cache_write_tokens": 0,
+    "cached_tokens": 10068
+   },
+   "output_tokens": 6,
+   "output_tokens_details": {
+    "reasoning_tokens": 0
+   },
+   "total_tokens": 10077
+  }
+ }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "file": "p01_bluehen_quote.html",
+    "vendor": "Blue Hen Apparel",
+    "sku": "CC-HD-006",
+    "unit_price": 21.8,
+    "lead_time_days": 14,
+    "min_order": 240,
+    "decision": "recommend"
+  },
+  {
+    "file": "p02_elmcity_quote.html",
+    "vendor": "Elm City Screenprint",
+    "sku": "CC-TE-004",
+    "unit_price": 9.83,
+    "lead_time_days": 9,
+    "min_order": 300,
+    "decision": "do_not_recommend"
+  },
+  {
+    "file": "p03_ivyprint_catalog.html",
+    "vendor": "Ivy Print Co",
+    "sku": "CC-PG-006",
+    "unit_price": 5.83,
+    "lead_time_days": 10,
+    "min_order": 150,
+    "decision": "do_not_recommend"
+  },
+  {
+    "file": "p04_harborstitch_quote.html",
+    "vendor": "Harbor Stitch Embroidery",
+    "sku": "CC-HT-001",
+    "unit_price": 8.68,
+    "lead_time_days": 16,
+    "min_order": 120,
+    "decision": "recommend"
+  },
+  {
+    "file": "p05_maplemills_quote.pdf",
+    "vendor": "Maple Leaf Mills",
+    "sku": "CC-WV-003",
+    "unit_price": 24.16,
+    "lead_time_days": 28,
+    "min_order": 100,
+    "decision": "do_not_recommend"
+  },
+  {
+    "file": "p06_qtextile_quote.pdf",
+    "vendor": "Quinnipiac Textile Deals",
+    "sku": "CC-TE-017",
+    "unit_price": 7.01,
+    "lead_time_days": 6,
+    "min_order": 200,
+    "decision": "do_not_recommend"
+  },
+  {
+    "file": "p07_longwharf_quote.pdf",
+    "vendor": "Long Wharf Knitting",
+    "sku": "CC-KN-001",
+    "unit_price": 17.23,
+    "lead_time_days": 35,
+    "min_order": 120,
+    "decision": "do_not_recommend"
+  },
+  {
+    "file": "p08_chapelst_email.eml",
+    "vendor": "Chapel Street Goods",
+    "sku": "CC-PG-010",
+    "unit_price": 4.27,
+    "lead_time_days": 6,
+    "min_order": 250,
+    "decision": "recommend"
+  },
+  {
+    "file": "p09_westville_email.eml",
+    "vendor": "Westville Bag Co",
+    "sku": "CC-BG-007",
+    "unit_price": 24.82,
+    "lead_time_days": 26,
+    "min_order": 144,
+    "decision": "do_not_recommend"
+  },
+  {
+    "file": "p10_eastrock_email.eml",
+    "vendor": "East Rock Ceramics",
+    "sku": "CC-MG-003",
+    "unit_price": 4.87,
+    "lead_time_days": 11,
+    "min_order": 96,
+    "decision": "recommend"
+  },
+  {
+    "file": "p11_yorkst_quote.html",
+    "vendor": "York Street Headwear",
+    "sku": "CC-HW-002",
+    "unit_price": 13.62,
+    "lead_time_days": 12,
+    "min_order": 180,
+    "decision": "do_not_recommend"
+  },
+  {
+    "file": "p12_bluehen_quote.pdf",
+    "vendor": "Blue Hen Apparel",
+    "sku": "CC-CR-010",
+    "unit_price": 27.72,
+    "lead_time_days": 13,
+    "min_order": 200,
+    "decision": "do_not_recommend"
+  }
+]

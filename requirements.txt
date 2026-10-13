@@ -1,0 +1,13 @@
+# HW6 vendor desk agent. Python 3.11+ (developed on Python 3.14).
+# PydanticAI agent; gpt-6-luna is called through Portkey's OpenAI-compatible Responses API
+pydantic-ai-slim[openai]==2.43.0
+openai==3.8.0
+pydantic==2.13.5
+httpx==0.28.1
+# Reading vendor documents: PDF text (pypdf) and the defended PDF sanitizer (PyMuPDF, imported as pymupdf)
+pypdf==6.16.2
+pymupdf==1.28.2
+# Loads PORTKEY_API_KEY from .env
+python-dotenv==1.2.3
+# Problem 2 handbook token count (scripts/count_handbook_tokens.py)
+tiktoken==0.14.0
