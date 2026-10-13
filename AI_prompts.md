@@ -602,3 +602,10 @@
 > 现在直接完成上述整理和上传工作。
 
 **Follow-up prompt：** 无
+
+**状态（2026-10-13）：** 已完成。项目已推送到公开仓库 https://github.com/kevin2457-cmd/hw6_Kevin-Yang （`main` 分支）。推送前做了以下检查：
+- 密钥：扫描了工作区文件和全部 Git 历史，没有发现真实密钥。
+- 依赖：`requirements.txt` 在全新虚拟环境中验证过，并补上了 `pymupdf`。
+- 文件编码：新增 `.gitattributes`，让 PDF 和邮件等数据文件逐字节保持不变。
+
+推送后不登录也能看到仓库内容，必需文件齐全，没有上传 `.env`。Canvas 由我自己提交。
